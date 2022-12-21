@@ -27,6 +27,7 @@ namespace WinFormsApp6
         {
             Form3 temp = new Form3();
             temp.Show(this);
+		MessageBox.Show("asd");
         }
     }
 }
